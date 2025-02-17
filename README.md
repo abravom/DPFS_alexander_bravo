@@ -1,7 +1,7 @@
 # DPFS_alexander_bravo
 Curso Programación Web Full Stack
 
-#Animaliastore
+# Animaliastore
 Animaliastore es un eCommerce dedicado a la venta de productos para mascotas, ofreciendo una experiencia de compra fácil y conveniente para dueños de mascotas.
 
 ## ✨ Temática del Marketplace
