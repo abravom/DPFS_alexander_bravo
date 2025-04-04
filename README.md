@@ -45,3 +45,6 @@ Para la planificación del sitio, se han creado wireframes de las principales se
 - [Detalle de producto] - wireframes/detalle producto.jpg  
 - [Carrito de compras] - wireframes/carrito de compras.jpg
 - [Formulario de login / registro] - wireframes/login registro.jpg
+
+## :link: Link Tablero Trello
+- https://trello.com/invite/b/67efff95826a4b17ec252038/ATTIcb067ea45f2e215cb5a915067027477dCC731DCD/dpfsalexanderbravo
