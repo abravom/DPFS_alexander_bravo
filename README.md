@@ -41,8 +41,7 @@ Estos sitios sirvieron como inspiración para el desarrollo de **Animaliastore**
 ## 📌 Wireframes del Proyecto  
 Para la planificación del sitio, se han creado wireframes de las principales secciones:  
 
-- [Home](wireframes/home.png)  
-- [Detalle de producto](wireframes/detalle_producto.png)  
-- [Carrito de compras](wireframes/carrito_compras.png)  
-- [Formulario de registro](wireframes/formulario_registro.png)  
-- [Formulario de login](wireframes/formulario_login.png)  
+- [Home](wireframes/home.jpg)  
+- [Detalle de producto](wireframes/detalle producto.jpg)  
+- [Carrito de compras](wireframes/carrito de compras.jpg)  
+- [Formulario de login / registro](wireframes/login registro.jpg)  
