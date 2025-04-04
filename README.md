@@ -37,3 +37,12 @@ Estos sitios sirvieron como inspiración para el desarrollo de **Animaliastore**
 3. **[PetSmart](https://www.petsmart.com/)** – Diseño intuitivo y promociones atractivas.  
 4. **[Zooplus](https://www.zooplus.com/)** – Enfoque europeo y catálogo especializado.  
 5. **[Tiendanimal](https://www.tiendanimal.com/)** – Diseño atractivo y experiencia de usuario optimizada.
+
+## 📌 Wireframes del Proyecto  
+Para la planificación del sitio, se han creado wireframes de las principales secciones:  
+
+- [Home](wireframes/home.png)  
+- [Detalle de producto](wireframes/detalle_producto.png)  
+- [Carrito de compras](wireframes/carrito_compras.png)  
+- [Formulario de registro](wireframes/formulario_registro.png)  
+- [Formulario de login](wireframes/formulario_login.png)  
